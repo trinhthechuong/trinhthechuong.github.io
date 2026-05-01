@@ -1,6 +1,6 @@
 ---
 title: "In silico modeling for prediction of potential HIV integrase inhibitors "
-excerpt: "This is a repository containing Tieu Long Phan master thesis <br/><img src='/images/HIV/AFPS.png'>"
+excerpt: "This is a repository containing Tieu Long Phan master thesis"
 collection: project
 ---
 
@@ -20,6 +20,9 @@ The project contains four parts:
 - Molecular docking: using five docking softwares to perform retrospective control
 
 <a href="https://tieulongphan.github.io/files/thesis_slide.pdf"><img src="/images/HIV/thesis_slide.jpg" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
+
+## Graphical Abstract
+<img src="/images/HIV/AFPS.png" alt="Graphical abstract" class="center" style="width:700px">
 
 ## Requirements
 

@@ -1,6 +1,6 @@
 ---
 title: "Synergy of Advanced Machine Learning and Deep Neural Networks with Consensus Molecular Docking for Enhanced Potency Prediction of ALK Inhibitors"
-excerpt: "This is a repository containing my graduation thesis, which has been published in the Journal of Computer-Aided Molecular Design. <br/><img src='/images/Thesis/Graphical_abs.png'>"
+excerpt: "This is a repository containing my graduation thesis, which has been published in the Journal of Computer-Aided Molecular Design."
 collection: project
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Graph Neural Network Model Enables Accurate Prediction of Anaplastic Lymphoma Kinase Inhibitors Compared to Other Machine Learning Models "
-excerpt: "This repository contains my publications from the KSE international conferences (Proceedings of the IEEE) and also the most interesting parts of my graduation thesis. <br/><img src='/images/GNN_ALK/Graph_ALK.png'>"
+excerpt: "This repository contains my publications from the KSE international conferences (Proceedings of the IEEE) and also the most interesting parts of my graduation thesis."
 collection: project
 ---
 

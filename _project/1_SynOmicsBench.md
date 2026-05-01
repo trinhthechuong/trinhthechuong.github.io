@@ -1,10 +1,10 @@
 ---
 title: "SynOmicsBench"
-excerpt: "SynOmicsBench is the first benchmarking study tailored to high-dimensional clinical transcriptomic cancer data, comparing synthetic data generation methods across three clinical cancer trials. <br/><img src='https://github.com/user-attachments/assets/2cf2423c-dc24-4f85-b97f-2160bfc9ebf4'>"
+excerpt: "SynOmicsBench is the first benchmarking study tailored to high-dimensional clinical transcriptomic cancer data, comparing synthetic data generation methods across three clinical cancer trials."
 collection: project
 ---
 
-# SynOmicsBench
+
 
 SynOmicsBench is a comprehensive framework and the first benchmarking study tailored to high-dimensional clinical transcriptomic cancer data, comparing synthetic data generation methods across three clinical cancer trials. 
 

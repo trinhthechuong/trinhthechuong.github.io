@@ -12,9 +12,7 @@ main:
   - title: "Projects"
     url: /project/
       
-  - title: "CADD packages"
-    url: /portfolio/
-        
+
    #title: "Blog Posts"
     #url: /year-archive/
     
