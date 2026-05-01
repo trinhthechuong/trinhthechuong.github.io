@@ -1,25 +1,20 @@
 ---
-title: "Synergy of advanced machine learning and deep neural networks with consensus molecular dock- ing for enhanced potency prediction of ALK inhibitors,"
+title: "Synergy of advanced machine learning and deep neural networks with consensus molecular docking for virtual screening of anaplastic lymphoma kinase inhibitors"
 collection: publications
 permalink: /publication/SR_ALK
-excerpt: 'This study addresses the urgent need for new Anaplastic lymphoma kinase (ALK) inhibitors in Non-Small Cell Lung Cancer (NSCLC), focusing on the ALK-positive mutation variant (5% of cases)...'
-date: 2023-12-1
-venue: 'Scientific Reports '
-paperurl: 'https://github.com/trinhthechuong/ML-ANN-GNN-for-Screening-potential-iALKs'
-citation: 
+excerpt: 'This study addresses the urgent need for an AI model to predict Anaplastic Lymphoma Kinase (ALK) inhibitors for Non-Small Cell Lung Cancer treatment, targeting the ALK-positive mutation...'
+date: 2025-01-20
+venue: 'Journal of Computer-Aided Molecular Design'
+paperurl: 'https://link.springer.com/article/10.1007/s10822-025-00657-6'
+citation: 'Trinh, T.C., et al. Synergy of advanced machine learning and deep neural networks with consensus molecular docking for virtual screening of anaplastic lymphoma kinase inhibitors. J Comput Aided Mol Des 39, 7 (2025). https://doi.org/10.1007/s10822-025-00657-6'
 ---
 
 
 **Abstract**: 
-This study addresses the urgent need for new Anaplastic lymphoma kinase (ALK) inhibitors in Non-Small Cell Lung Cancer (NSCLC), focusing on the ALK-positive mutation variant (5% of cases). Despite only five FDA-approved inhibitors, the demand for effective drugs persists. Leveraging the power of AI, machine learning, and deep learning, our research expedites novel ALK inhibitor screening. The dataset includes 26,168 substances tested for ALK inhibition potential from scientific papers. Notably, the XGBoost machine learning model exhibited compelling results with an external validation (EV) f1 score of 0.921 and an EV-AP of 0.961, along with a cross-validation (CV) f1 score of 0.888±0.039 and a CV-AP of 0.939±0.032. Besides, the ANN demonstrated excellence with an EV-f1 score of 0.930 and an EV-AP of 0.955, complemented by a CV-f1 score of 0.891±0.037 and a CV-AP of 0.934±0.040. The present study undertakes a meticulous comparative analysis between traditional machine learning models and a Graph Neural Network (GNN) model, the latter being a product of our recent research endeavors. The findings reveal that, despite the advancements in neural network models, traditional machine learning models exhibit superior performance over the GNN model. During this research, these models were employed in conjunction with a consensus docking model to screen a total of 120,571 compounds virtually, leading to the identification of three promising ALK inhibitors: CHEMBL1689515, CHEMBL2380351, and CHEMBL102714. The study recommends further dynamic simulations, in vitro tests, and exploration of advanced AI models like CNN and RNN for molecular optimization.
+This study addresses the urgent need for an AI model to predict Anaplastic Lymphoma Kinase (ALK) inhibitors for Non-Small Cell Lung Cancer treatment, targeting the ALK-positive mutation. With only five Food and Drug Administration approved ALK inhibitors currently available, effective drugs remain in demand. Leveraging machine learning (ML) and deep learning (DL), our research accelerates the precise screening of novel ALK inhibitors using both ligand-based and structure-based approaches. In ligand-based approach, an ensemble voting model comprising three base learners to classify potential ALK inhibitors, achieving promising retrospective validation results. Notably, the ML-based XGBoost algorithm exhibited compelling results with external validation (EV)-f1 score of 0.921, EV-Average Precision (AP) of 0.961, cross-validation (CV)-f1 score of 0.888±0.039 and CV-AP of 0.939±0.032. Besides, the DL-based Artificial Neural Network (ANN) model demonstrated comparative performance with EV-f1 score of 0.930, EV-AP of 0.955, CV-f1 score of 0.891±0.037 and CV-AP of 0.934±0.040. For structure-based approach, an XGBoost consensus docking model utilized scores from three molecular docking programs (GNINA 1.0, Vina-GPU 2.0, and AutoDock-GPU) as features. Combining these two approaches, we virtually screened 120,571 compounds, identifying three promising ALK inhibitors, CHEMBL1689515, CHEMBL2380351, and CHEMBL102714, that bind to the protein’s pocket and establish hydrophobic contacts in the hinge region through their ketone groups, resembling Alectinib’s interaction. Comparative analysis revealed traditional ML models outperformed Graph Neural Networks (GNN), highlighting the critical role of feature engineering and dataset size importance. The study recommends further in vitro testing to validate the prospective screening performance of these models. 
 
-**Keywords:** *ALK, XGBoost, Artificial Neural Network, Graph Neural Network, Molecular Docking.*
+**Keywords:** *ALK, XGBoost, Artificial Neural Network, Graph Neural Network, Molecular Docking, Consensus Docking.*
 
-*This paper is in under-review phase.*
+[Link to paper](https://link.springer.com/article/10.1007/s10822-025-00657-6)
 
 [Link Github code](https://github.com/trinhthechuong/ML-ANN-GNN-for-Screening-potential-iALKs)
-
-
-
-
-

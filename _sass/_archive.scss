@@ -69,6 +69,8 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+  transition: $global-transition;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   img {
     width: 100%;
   }
@@ -76,11 +78,13 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: $box-shadow;
+    transform: translateY(-4px);
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $info-color;
   }
 }
 
