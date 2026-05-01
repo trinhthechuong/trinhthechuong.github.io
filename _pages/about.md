@@ -23,10 +23,6 @@ My primary research interests involve:
 - Cheminformatics and Bioinformatics 
 
 My research focuses on these main problems in drug discovery:
-1. **Identification and optimization of drug candidates**: How can we discover and design the most promising candidates given a target (protein) and a database of active and inactive molecules?
-2. **Developing AIDD methodologies**: Creating and advancing techniques and tools for AIDD.
-3. **Omics data**: Developing Pharmacogenomics AI models to leverage omics data for drug discovery.
-4. **Reaction modeling**: Given a set of compounds and conditions, which compounds could be synthesized, and what is the likelihood of this reaction?
-
-
-
+1. **Omics data**: Developing AI models to leverage omics data for precision medicine and drug discovery.
+2. **Identification and optimization of drug candidates**: How can we discover and design the most promising candidates given a target (protein) and a database of active and inactive molecules?
+3. **Developing AIDD methodologies**: Creating and advancing techniques and tools for AIDD.

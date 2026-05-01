@@ -1,6 +1,6 @@
 ---
 title: "Synergy of Advanced Machine Learning and Deep Neural Networks with Consensus Molecular Docking for Enhanced Potency Prediction of ALK Inhibitors"
-excerpt: "This is a repository containing my graduation thesis, which is currently under review by the BBA - Molecular Basis of Disease Journal. <br/><img src='/images/Thesis/Graphical_abs.png'>"
+excerpt: "This is a repository containing my graduation thesis, which has been published in the Journal of Computer-Aided Molecular Design. <br/><img src='/images/Thesis/Graphical_abs.png'>"
 collection: project
 ---
 
@@ -24,7 +24,7 @@ The raw dataset consists of 26.168 substances tested for their ALK receptor inhi
 
 ## Note
 For more detailed information, please visit:
-1. Our preprint is [here](https://chemrxiv.org/engage/chemrxiv/article-details/66d84cd051558a15ef046443), which is currently under review by the BBA - Molecular Basis of Disease Journal.
+1. The paper has been published in the [Journal of Computer-Aided Molecular Design](https://link.springer.com/article/10.1007/s10822-025-00657-6).
 2. My dissertation presentation is [here](https://trinhthechuong.github.io/files/thesis_slide.pdf).
 <a href="https://trinhthechuong.github.io/files/thesis_slide.pdf"><img src="/images/Thesis/Graphical_abs.png" target="_blank" alt="thesis slide" class="center" style="width:700px"></a>
 
